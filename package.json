@@ -19,6 +19,7 @@
     "typechain": "^8.3.2"
   },
   "dependencies": {
-    "@openzeppelin/hardhat-tron": "github:OpenZeppelin/hardhat-tron"
+    "@openzeppelin/hardhat-tron": "github:OpenZeppelin/hardhat-tron",
+    "openzeppelin-tron-solidity": "github:OpenZeppelin/tron-contracts"
   }
 }
